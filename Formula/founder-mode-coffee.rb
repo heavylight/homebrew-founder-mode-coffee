@@ -1,10 +1,10 @@
 class FounderModeCoffee < Formula
   desc "Coffee for people who build things"
   homepage "https://foundermodecoffee.com"
-  url "https://github.com/heavylight/founder-mode-coffee-cli/releases/download/v1.0.0/founder-mode-coffee-1.0.0.tar.gz"
-  sha256 "e25ac2c1409224c5489a37e23eec166a2c9eb067b234b83b68c3849285a47cf2"
+  url "https://github.com/heavylight/founder-mode-coffee-cli/releases/download/v1.1.0/founder-mode-coffee-1.1.0.tar.gz"
+  sha256 "053c9a827057f54fc53bfe62e9ea602c4d8289ea46ae4b845b78b53dd884323e"
   license "MIT"
-  version "1.0.0"
+  version "1.1.0"
 
   def install
     bin.install "founder-mode-coffee"
